@@ -1,0 +1,44 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ body {
+     width: 100%;
+     padding-top: 100px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     font-family: 'Roboto', sans-serif;
+ }
+
+ h1 {
+     font-size: 38px;
+     border-bottom: 4px solid #FFDE59;
+     font-weight: lighter;
+     margin-bottom: 40px;
+
+     b {
+         font-weight: bold;
+     }
+ }
+
+ .role-heading {
+     font-weight: bold;
+     color: rgba(38, 38, 38, .85);
+     font-size: xx-large;
+     margin: 20px;
+ }
+
+ .profile-holder {
+     width: 90%;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     flex-wrap: wrap;
+     margin: 20px;
+     margin-bottom: 80px;
+ }
