@@ -21,7 +21,7 @@ body::-webkit-scrollbar {
 }
 
 .content {
-    background: #fff;
+    background: #010115;
     width: 100%;
     margin: 0 auto;
     font-family: Helvetica;
@@ -123,6 +123,7 @@ body::-webkit-scrollbar {
 
 .about {
     position: relative;
+    color: white;
 }
 
 .span-deg {
